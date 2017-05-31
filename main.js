@@ -94,7 +94,7 @@ var PostCollection = (function(){
       _this.posts.forEach(function(post){
          post.element.style.display = "none";
       });
-
+      threadElem.style.columnCount = "3";
       var post = _this.getPost(postNumber);
       post.element.style.display = "block";
       post.replies.forEach(function(reply){
