@@ -12,3 +12,6 @@ PostCollection.screenShotView(POST_NUMBER);
 example
 
 PostCollection.screenShotView(127907777);
+
+![](http://i.imgur.com/AKcSPZQ.gif)
+
