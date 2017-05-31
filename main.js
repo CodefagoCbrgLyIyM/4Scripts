@@ -77,7 +77,6 @@ var Post = function(id){
     });
     return _this;
 }
-var aPost = new Post(127907777); 
 var PostCollection = (function(){
     var _this = {};
     _this.posts = [];
